@@ -41,6 +41,7 @@ return {
     { import = "astrocommunity.color.twilight-nvim" },
     { import = "astrocommunity.colorscheme.everforest" },
     { import = "astrocommunity.colorscheme.nord-nvim" },
+    { import = "astrocommunity.colorscheme.nordic-nvim" },
     { import = "astrocommunity.colorscheme.kanagawa-nvim" },
     { import = "astrocommunity.colorscheme.catppuccin" },
     { import = "astrocommunity.colorscheme.github-nvim-theme" },
