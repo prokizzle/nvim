@@ -17,7 +17,7 @@ return {
     { import = "astrocommunity.editing-support.nvim-treesitter-endwise" },
     { import = "astrocommunity.editing-support.nvim-treesitter-context" },
     { import = "astrocommunity.editing-support.bigfile-nvim" },
-    { import = "astrocommunity.editing-support.nvim-origami" },
+    -- { import = "astrocommunity.editing-support.nvim-origami" },
     { import = "astrocommunity.editing-support.conform-nvim" },
     -- { import = "astrocommunity.editing-support.vim-doge" },
     { import = "astrocommunity.editing-support.comment-box-nvim" },
