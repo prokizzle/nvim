@@ -13,7 +13,7 @@ return {
         "vtsls",
         "vtsls",
         "eslint",
-        "ruby_lsp",
+        -- "ruby_lsp",
         -- add more arguments for adding more language servers
       })
     end,
